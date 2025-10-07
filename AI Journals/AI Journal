@@ -35,3 +35,15 @@ However we will discuss about the instances in which I have used AI to finish my
 In the end of the day, I just used AI to verify whether or not what I put down is correct and do not use it to write the programs for me and I believe that it is more ethical to use AI this way. 
 
 In other cases not related to this class, I have searched up about why my Photoshop license is about to expire and what came up was that Gemini AI lead me to the UMD IT page that shared news that UMD is in the middle of renewing their license with Adobe Creative Cloud so I do not have much to worry about. Despite these news, I believe I will still resort to making backups of my (side) projects on Photoshop, just in case if it turns out I may lose access to them. 
+
+Week 5: 
+
+For Monday, I only did maybe 7 or 8 of the excerises in the Week 5 Excerises and I remember only relying on AI for the second excerise specifically because I have no idea how the property and setters are supposed to be structured in this way. Otherwise for maybe like 6 of the excerises, I have used AI to verify my work or to debug my code and check up on whether or not the AI will work. 
+
+My group has decided to brainstorm for the functions through ChatGPT, the functions are each given a purpose and also given variable names which I do not think are made up by the group and are instead prothesized by the AI instead. 
+
+On the other hand for Tuesday, I have been using old code for the simplier functions and try to reverse engineer what I have made before in past projects and such. For the more complex code such as the parse_csv function, I practically relied on tutorials initially for the function and then I realized that I can make the code more complicated so I decided to make the function more of a self verification code. I decided to incorporate more features within the function such as importing os to detect directory and such. For such instructions, I did use Google Gemini to take some code and incorporate it within my own code. 
+
+As for the last complex function, validate_experiment_parameters, I had to rely on AI completely as I have no idea where to start with this function and so I copied and pasted the function with it's variables into Google Gemini and see what it came back as and I believe that I will plan to write the code from scratch to understand what this function is supposed to do or how it's supposed to function afterwards. It is rather amusing that I have to put a prompt from a different AI into an AI that I regularly use. I feel rather ashamed about it, I am rather unsatsified with how much reliance I have with AI as I do not like using AI. 
+
+ 
