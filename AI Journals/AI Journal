@@ -46,4 +46,6 @@ On the other hand for Tuesday, I have been using old code for the simplier funct
 
 As for the last complex function, validate_experiment_parameters, I had to rely on AI completely as I have no idea where to start with this function and so I copied and pasted the function with it's variables into Google Gemini and see what it came back as and I believe that I will plan to write the code from scratch to understand what this function is supposed to do or how it's supposed to function afterwards. It is rather amusing that I have to put a prompt from a different AI into an AI that I regularly use. I feel rather ashamed about it, I am rather unsatsified with how much reliance I have with AI as I do not like using AI. 
 
+Upon further discussion with my teammates, AI was brought up constantly for coming up with examples and also for documentation as well. Despite this, I tried my best to refrain from using AI with the README file as I believe that this is one of the few documents that does not need to be used with AI. My rule of thumb with AI is that if I am able to do it myself and I have the time to do it myself then I will not need to use AI. I need to consider times in which I will not be able to rely on AI for work, so this is why I try to only use AI when I absolutely need to. 
+
  
