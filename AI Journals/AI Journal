@@ -49,3 +49,15 @@ As for the last complex function, validate_experiment_parameters, I had to rely 
 Upon further discussion with my teammates, AI was brought up constantly for coming up with examples and also for documentation as well. Despite this, I tried my best to refrain from using AI with the README file as I believe that this is one of the few documents that does not need to be used with AI. My rule of thumb with AI is that if I am able to do it myself and I have the time to do it myself then I will not need to use AI. I need to consider times in which I will not be able to rely on AI for work, so this is why I try to only use AI when I absolutely need to. 
 
  In the future, I believe I will handle any task such as documentation or formatting without the reliance of AI but since I am rather poor at coding, I will need to use AI to learn how functions work or at least know how the framework of the code provided will function if possible. 
+
+ Week 6:
+ 
+ So it has been a while since I've done anything for INST326 but when we returned with the Week 6 excerises, I've had an incredibly hard time with the assignment. I had to nearly rely on AI in the assignment on almost every excerise as I was havign such a hard time with coming up with the structure of the classes whether if one variable should be included inside the __init__ function or not due to whether if the functions included are either a classmethod or a staticmethod. 
+
+ However I have learned a lot from the AI otherwise as I saw a pattern with each of the examples that they provide for both classmethod and staticmethod in particular. In fact I asked the AI straight on what the difference is. I might like the example that the AI provided better than the lecture examples as what the AI gave me was that classmethod was functioned as a function that checked for a condition that was incorporated within the class itself whereas staticmethod was demonstrated as a formula. 
+ 
+ The connection I made with staticmethod was that like a formula, a formula does not remember information, it is only a way of processing information. So I made the connection that staticmethod is a procedure in which the infromation that is put into the class is already included in the function itself. Whereas with classmethod, it's more of like if the class was the one that stored the information. I find that this concept in Python to be a little harder than what we have covered weeks prior, the excerises do not help as they do not have a good setup to allow for setup to happen. 
+
+ Outside of this class, I could recall that I might have used AI to verify some functions or some material in a different class, but have not used it as a crutch like how I have been using it in this class. 
+
+ More on Projects, my group is planning on using AI to have it sort the 20 functions created into the provided classes that we will have. We might even ask the AI to repurpose the inputs and make sure that the functions line up with each other. So that the classes can be able to be functional as a unit rather than as fragments. 
